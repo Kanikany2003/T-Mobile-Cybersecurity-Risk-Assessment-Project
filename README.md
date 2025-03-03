@@ -47,17 +47,17 @@
 
 <details>
   <summary><h2>Scope, Goals & Risk Assessment Report</h2></summary>
-  <h3>📍 Scope</h3>
+  <h3>Scope</h3>
   <p>The assessment covers <b>network security, data protection, third-party risks, and regulatory compliance</b>. All assets, internal processes, and compliance measures are reviewed.</p>
   
-  <h3>🎯 Goals</h3>
+  <h3>Goals</h3>
   <ul>
     <li>Identify security vulnerabilities and evaluate existing security controls.</li>
     <li>Assess compliance with GDPR, PCI DSS, NIST, and ISO 27001 standards.</li>
     <li>Provide actionable mitigation strategies to reduce cybersecurity threats.</li>
   </ul>
 
-  <h3>🛡️Risk Assessment & Monitoring</h3>
+  <h3>Risk Assessment & Monitoring</h3>
   <p>The key risks identified include:</p>
   <ul>
     <li><b>Data Breaches</b> – Sensitive customer data exposure</li>
@@ -75,7 +75,7 @@
   <summary><h2>Controls & Compliance Checklist</h2></summary>
   <p>This checklist evaluates whether T-Mobile has implemented the necessary <b>security controls and compliance measures</b>.</p>
 
-  <h3>✔️ Security Controls</h3>
+  <h3> Security Controls</h3>
   <ul>
     <li> Firewall & Intrusion Detection System (IDS)</li>
     <li> Multi-Factor Authentication (MFA) & Encryption</li>
@@ -91,8 +91,6 @@
     <li> <b>NIST Cybersecurity Framework</b> – Identify, Protect, Detect, Respond, Recover</li>
     <li> <b>ISO 27001</b> – Information Security Management System (ISMS)</li>
   </ul>
-
-  <p><b>Goal:</b> Ensure T-Mobile is aligned with cybersecurity best practices.</p>
 </details>
 
 ---
