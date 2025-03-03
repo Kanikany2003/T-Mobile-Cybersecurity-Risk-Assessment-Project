@@ -1,7 +1,7 @@
 #  T-Mobile Cybersecurity Risk Assessment Project  
 
 <details>
-  <summary><h2>📖 Overview</h2></summary>
+  <summary><h2>Overview</h2></summary>
   <p>This project presents a comprehensive <b>cybersecurity risk assessment</b> for T-Mobile, one of the largest telecommunications companies in the world. The assessment covers:</p>
   <ul>
     <li>📂 <b>Scope, Goals & Risk Assessment Report</b></li>
@@ -30,7 +30,7 @@
     </li>
   </ul>
 
-  <h3>⚠️ Cybersecurity Challenges</h3>
+  <h3> Cybersecurity Challenges</h3>
   <p>T-Mobile has been a frequent target of cyberattacks, including:</p>
   <ul>
     <li>⚠️ <b>Data breaches</b> exposing customer information.</li>
@@ -46,7 +46,7 @@
 ---
 
 <details>
-  <summary><h2>📂 Scope, Goals & Risk Assessment Report</h2></summary>
+  <summary><h2>Scope, Goals & Risk Assessment Report</h2></summary>
   <h3>📍 Scope</h3>
   <p>The assessment covers <b>network security, data protection, third-party risks, and regulatory compliance</b>. All assets, internal processes, and compliance measures are reviewed.</p>
   
