@@ -116,29 +116,25 @@
 
 <details>
   <summary><h2>References</h2></summary>
+  <h3> Official Compliance & Security Frameworks</h3>
   <ul>
-    <li>📖 T-Mobile Cybersecurity Scope, Goals, & Risk Assessment Report</li>
-    <li>📖 T-Mobile Cybersecurity Controls & Compliance Checklist</li>
-    <li>📖 NIST Cybersecurity Framework: <a href="https://www.nist.gov/cyberframework">NIST Website</a></li>
-    <li>📖 ISO/IEC 27001 Compliance: <a href="https://www.iso.org/isoiec-27001-information-security.html">ISO Website</a></li>
-    1. General Data Protection Regulation (GDPR):
+    <li> <b>General Data Protection Regulation (GDPR)</b>: <a href="https://gdpr.eu/">Official GDPR Portal</a></li>
+    <li> <b>Payment Card Industry Data Security Standard (PCI DSS)</b>: <a href="https://www.pcisecuritystandards.org/">PCI Security Standards Council</a></li>
+    <li> <b>System and Organization Controls (SOC 1, SOC 2)</b>: <a href="https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/sorhome.html">AICPA - SOC Suite of Services</a></li>
+    <li> <b>Federal Communications Commission (FCC) Compliance</b>: <a href="https://www.fcc.gov/">Federal Communications Commission (FCC)</a></li>
+    <li> <b>National Institute of Standards and Technology (NIST) Cybersecurity Framework</b>: <a href="https://www.nist.gov/cyberframework">NIST Cybersecurity Framework</a></li>
+    <li> <b>ISO/IEC 27001 Compliance</b>: <a href="https://www.iso.org/isoiec-27001-information-security.html">ISO - ISO/IEC 27001 Information Security Management</a></li>
+  </ul>
 
-Official GDPR Portal: https://gdpr.eu/​
-2. Payment Card Industry Data Security Standard (PCI DSS):
-
-PCI Security Standards Council: https://www.pcisecuritystandards.org/​
-3. System and Organization Controls (SOC 1, SOC 2):
-
-American Institute of CPAs (AICPA) - SOC Suite of Services: https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/sorhome.html​
-4. Federal Communications Commission (FCC) Compliance:
-
-Federal Communications Commission (FCC): https://www.fcc.gov/​
-5. National Institute of Standards and Technology (NIST) Cybersecurity Framework:
-
-NIST Cybersecurity Framework: https://www.nist.gov/cyberframework​
-6. ISO/IEC 27001 Compliance:
-
-International Organization for Standardization (ISO) - ISO/IEC 27001 Information Security Management: https://www.iso.org/isoiec-27001-information-security.html
+  <h3> T-Mobile Cybersecurity & FCC Settlement Articles</h3>
+  <ul>
+    <li> <b>Reuters</b>: <a href="https://www.reuters.com">US Reaches $31.5 Million Settlement with T-Mobile Over Data Breaches</a></li>
+    <li> <b>The Verge</b>: <a href="https://www.theverge.com">T-Mobile Promises to Try Not to Get Hacked Again</a></li>
+    <li> <b>TMO News</b>: <a href="https://www.tmonews.com">T-Mobile Invests to Improve Its Cybersecurity Practices</a></li>
+    <li> <b>Hunton</b>: <a href="https://www.huntonprivacyblog.com">T-Mobile to Spend $31.5 Million to Settle Multiple FCC Breaches</a></li>
+    <li> <b>MeriTalk</b>: <a href="https://www.meritalk.com">T-Mobile Moving to Zero Trust Under FCC Breach Settlement</a></li>
+    <li> <b>Paubox</b>: <a href="https://www.paubox.com">Learning the Importance of Cybersecurity from T-Mobile</a></li>
+    <li> <b>Electronic Frontier Foundation</b>: <a href="https://www.eff.org">FCC Requires T-Mobile to Implement Data Minimization</a></li>
   </ul>
 </details>
 
