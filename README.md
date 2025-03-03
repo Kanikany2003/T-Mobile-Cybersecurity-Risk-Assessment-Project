@@ -15,8 +15,10 @@
 ---
 
 <details>
-  <summary><h2> About T-Mobile</h2></summary>
-  <p><b>T-Mobile</b> is a leading telecommunications company that provides wireless voice, messaging, and data services in the United States and globally. As of 2025, T-Mobile has:</p>
+  <summary><h2> Overview of T-Mobile </h2></summary>
+  <p><b>T-Mobile</b> is a leading telecommunications company that provides wireless voice, messaging, and data services across the United States and internationally. As one of the largest mobile network operators, T-Mobile serves over 100 million customers and operates a vast 5G infrastructure, handling massive amounts of sensitive customer and enterprise data.
+
+</p>
   <ul>
     <li> Over <b>110 million customers</b> in the U.S.</li>
     <li>🏢 A vast infrastructure of **5G networks** and data centers.</li>
