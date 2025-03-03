@@ -15,34 +15,32 @@
 ---
 
 <details>
-  <summary><h2> Overview of T-Mobile </h2></summary>
-  <p><b>T-Mobile</b> is a leading telecommunications company that provides wireless voice, messaging, and data services across the United States and internationally. As one of the largest mobile network operators, T-Mobile serves over 100 million customers and operates a vast 5G infrastructure, handling massive amounts of sensitive customer and enterprise data.
+  <summary><h2> T-Mobile Cybersecurity Case Study</h2></summary>
+  <h3> Overview of T-Mobile</h3>
+  <p><b>T-Mobile</b> is a leading telecommunications company providing wireless voice, messaging, and data services across the United States and internationally. As one of the largest mobile network operators, T-Mobile serves over <b>100 million customers</b> and operates an extensive <b>5G network infrastructure</b>, handling vast amounts of sensitive customer and enterprise data.</p>
 
-</p>
+  <h3> Key Aspects of T-Mobile’s Business Operations:</h3>
   <ul>
-    <li> Over <b>110 million customers</b> in the U.S.</li>
-    <li>🏢 A vast infrastructure of **5G networks** and data centers.</li>
-    <li>💳 Processes **millions of financial transactions** daily.</li>
-    <li>🔐 Stores **highly sensitive customer information**, including:
-      <ul>
-        <li>📂 Personally Identifiable Information (PII)</li>
-        <li>💳 Credit card and financial data</li>
-        <li>📞 Call and message records</li>
-      </ul>
-    </li>
+    <li><b>Industry:</b> Telecommunications</li>
+    <li><b>Services:</b> Mobile network, 5G broadband, IoT solutions, enterprise communications</li>
+    <li><b>Customer Base:</b> Consumers, businesses, and government organizations</li>
+    <li><b>Data Handled:</b> Customer account information, payment details, call records, location data</li>
+    <li><b>Compliance Requirements:</b> PCI DSS, GDPR, FCC, SOC 2, ISO 27001, NIST CSF</li>
   </ul>
 
-  <h3> Cybersecurity Challenges</h3>
-  <p>T-Mobile has been a frequent target of cyberattacks, including:</p>
-  <ul>
-    <li>⚠️ <b>Data breaches</b> exposing customer information.</li>
-    <li>⚠️ <b>Phishing & credential theft</b> targeting employees.</li>
-    <li>⚠️ <b>Third-party vulnerabilities</b> in vendor supply chains.</li>
-    <li>⚠️ <b>Regulatory compliance risks</b> (GDPR, PCI DSS, FCC rules).</li>
-  </ul>
+  <h3>⚠ Why This Project is Needed</h3>
+  <p>As a major telecom provider, T-Mobile faces increasing cybersecurity challenges related to <b>data protection, regulatory compliance, and risk management</b>. With cyber threats evolving rapidly, strong security measures are essential.</p>
 
-  <h3>🔍 Why This Project Matters</h3>
-  <p>This cybersecurity assessment aims to identify <b>key vulnerabilities</b> in T-Mobile’s security infrastructure and offer strategies to strengthen data protection, compliance adherence, and threat mitigation.</p>
+  <h3> Key Cybersecurity Challenges Faced by T-Mobile:</h3>
+  <ul>
+    <li> <b>Data Breaches:</b> T-Mobile has experienced several high-profile breaches compromising millions of customer records.</li>
+    <li> <b>Phishing & Credential Theft:</b> Employees and customers are prime targets for social engineering attacks.</li>
+    <li> <b>Third-Party Security Risks:</b> Vendors and external partners may introduce supply chain vulnerabilities.</li>
+    <li> <b>Regulatory Compliance:</b> Must adhere to strict data privacy laws (GDPR, CCPA, PCI DSS) and telecom regulations (FCC, NIST CSF).</li>
+    <li> <b>5G Network Security:</b> Expansion of 5G introduces new attack surfaces for cybercriminals.</li>
+  </ul>
+  
+  <p>This project provides a structured approach to evaluating and mitigating risks in T-Mobile’s cybersecurity framework.</p>
 </details>
 
 ---
