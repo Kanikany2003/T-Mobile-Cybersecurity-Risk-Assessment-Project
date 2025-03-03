@@ -121,6 +121,24 @@
     <li>📖 T-Mobile Cybersecurity Controls & Compliance Checklist</li>
     <li>📖 NIST Cybersecurity Framework: <a href="https://www.nist.gov/cyberframework">NIST Website</a></li>
     <li>📖 ISO/IEC 27001 Compliance: <a href="https://www.iso.org/isoiec-27001-information-security.html">ISO Website</a></li>
+    1. General Data Protection Regulation (GDPR):
+
+Official GDPR Portal: https://gdpr.eu/​
+2. Payment Card Industry Data Security Standard (PCI DSS):
+
+PCI Security Standards Council: https://www.pcisecuritystandards.org/​
+3. System and Organization Controls (SOC 1, SOC 2):
+
+American Institute of CPAs (AICPA) - SOC Suite of Services: https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/sorhome.html​
+4. Federal Communications Commission (FCC) Compliance:
+
+Federal Communications Commission (FCC): https://www.fcc.gov/​
+5. National Institute of Standards and Technology (NIST) Cybersecurity Framework:
+
+NIST Cybersecurity Framework: https://www.nist.gov/cyberframework​
+6. ISO/IEC 27001 Compliance:
+
+International Organization for Standardization (ISO) - ISO/IEC 27001 Information Security Management: https://www.iso.org/isoiec-27001-information-security.html
   </ul>
 </details>
 
