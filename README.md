@@ -72,7 +72,7 @@
 ---
 
 <details>
-  <summary><h2>✅ Controls & Compliance Checklist</h2></summary>
+  <summary><h2>Controls & Compliance Checklist</h2></summary>
   <p>This checklist evaluates whether T-Mobile has implemented the necessary <b>security controls and compliance measures</b>.</p>
 
   <h3>✔️ Security Controls</h3>
