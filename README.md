@@ -2,7 +2,7 @@
 
 <details>
   <summary><h2>Overview</h2></summary>
-  <p>This project presents a comprehensive <b>cybersecurity risk assessment</b> for T-Mobile, one of the largest telecommunications companies. The assessment covers:</p>
+  <p>This project presents a comprehensive <b>cybersecurity risk assessment</b> This project uses T-Mobile as a case study for university research purposes only. The goal is to analyze cybersecurity frameworks, compliance requirements, and risk management best practices as an academic exercise. The findings and recommendations in this project are based on publicly available information and do not represent actual T-Mobile security policies or confidential data. The assessment covers:</p>
   <ul>
     <li> <b>Scope, Goals & Risk Assessment Report</b></li>
     <li> <b>Controls & Compliance Checklist</b></li>
