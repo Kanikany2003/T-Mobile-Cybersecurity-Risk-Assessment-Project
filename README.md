@@ -28,7 +28,7 @@
     <li><b>Compliance Requirements:</b> PCI DSS, GDPR, FCC, SOC 2, ISO 27001, NIST CSF</li>
   </ul>
 
-  <h3>⚠ Why This Project is Needed</h3>
+  <h3>Why This Project is Needed</h3>
   <p>As a major telecom provider, T-Mobile faces increasing cybersecurity challenges related to <b>data protection, regulatory compliance, and risk management</b>. With cyber threats evolving rapidly, strong security measures are essential.</p>
 
   <h3> Key Cybersecurity Challenges Faced by T-Mobile:</h3>
