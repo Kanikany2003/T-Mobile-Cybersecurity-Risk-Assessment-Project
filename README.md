@@ -2,12 +2,12 @@
 
 <details>
   <summary><h2>Overview</h2></summary>
-  <p>This project presents a comprehensive <b>cybersecurity risk assessment</b> for T-Mobile, one of the largest telecommunications companies in the world. The assessment covers:</p>
+  <p>This project presents a comprehensive <b>cybersecurity risk assessment</b> for T-Mobile, one of the largest telecommunications companies. The assessment covers:</p>
   <ul>
-    <li>📂 <b>Scope, Goals & Risk Assessment Report</b></li>
-    <li>✅ <b>Controls & Compliance Checklist</b></li>
-    <li>⚠️ <b>Risk Register</b></li>
-    <li>📈 <b>Areas for Improvement & Recommendations</b></li>
+    <li> <b>Scope, Goals & Risk Assessment Report</b></li>
+    <li> <b>Controls & Compliance Checklist</b></li>
+    <li> <b>Risk Register</b></li>
+    <li> <b>Areas for Improvement & Recommendations</b></li>
   </ul>
   <p>The goal is to evaluate <b>potential cybersecurity threats</b>, analyze the <b>effectiveness of existing security measures</b>, and propose mitigation strategies to enhance T-Mobile's resilience against evolving cyber threats.</p>
 </details>
