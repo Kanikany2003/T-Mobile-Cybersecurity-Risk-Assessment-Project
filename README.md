@@ -1,4 +1,6 @@
-#  T-Mobile Cybersecurity Risk Assessment Project  
+# ![T-Mobile Logo](https://www.insights1st.com/wp-content/uploads/2020/04/T-Mobile-logo-square-1.png)  
+# T-Mobile Cybersecurity Risk Assessment Project  
+ 
 
 <details>
   <summary><h2>Overview</h2></summary>
@@ -109,7 +111,7 @@
 
 <details>
   <summary><h2> Conclusion</h2></summary>
-  <p>This project highlights the **key cybersecurity risks** and **mitigation strategies** for T-Mobile. While existing security controls provide a strong foundation, improvements in **Zero Trust implementation, risk tracking, and compliance reporting** will further strengthen the security posture.</p>
+  <p>The **T-Mobile Cybersecurity Risk Assessment Project++ identified key vulnerabilities, assessed compliance with **GDPR, PCI DSS, ISO 27001, and NIST CSF**, and provided **risk mitigation strategies**. By developing a **risk register and compliance checklist**, the project emphasized Zero Trust implementation, incident response improvements, and proactive security measures. These recommendations strengthen data protection, regulatory compliance, and overall cybersecurity resilience against evolving threats.</p>
 </details>
 
 ---
