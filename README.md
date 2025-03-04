@@ -1,4 +1,4 @@
-# ![T-Mobile Logo](https://www.insights1st.com/wp-content/uploads/2020/04/T-Mobile-logo-square-1.png) T-Mobile Cybersecurity Risk Assessment Project
+# <img src="https://www.insights1st.com/wp-content/uploads/2020/04/T-Mobile-logo-square-1.png" alt="T-Mobile Logo" width="50"> T-Mobile Cybersecurity Risk Assessment Project
 
 <details>
   <summary><h2>Overview</h2></summary>
